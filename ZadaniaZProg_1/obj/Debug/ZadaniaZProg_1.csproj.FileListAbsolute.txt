@@ -1,0 +1,7 @@
+C:\Users\Cwaniak\source\repos\ZadaniaZProg_1\ZadaniaZProg_1\obj\Debug\ZadaniaZProg_1.csprojAssemblyReference.cache
+C:\Users\Cwaniak\source\repos\ZadaniaZProg_1\ZadaniaZProg_1\obj\Debug\ZadaniaZProg_1.csproj.CoreCompileInputs.cache
+C:\Users\Cwaniak\source\repos\ZadaniaZProg_1\ZadaniaZProg_1\bin\Debug\ZadaniaZProg_1.exe.config
+C:\Users\Cwaniak\source\repos\ZadaniaZProg_1\ZadaniaZProg_1\bin\Debug\ZadaniaZProg_1.exe
+C:\Users\Cwaniak\source\repos\ZadaniaZProg_1\ZadaniaZProg_1\bin\Debug\ZadaniaZProg_1.pdb
+C:\Users\Cwaniak\source\repos\ZadaniaZProg_1\ZadaniaZProg_1\obj\Debug\ZadaniaZProg_1.exe
+C:\Users\Cwaniak\source\repos\ZadaniaZProg_1\ZadaniaZProg_1\obj\Debug\ZadaniaZProg_1.pdb
